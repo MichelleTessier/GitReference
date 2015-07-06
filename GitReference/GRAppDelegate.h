@@ -13,5 +13,7 @@
 @property (strong, nonatomic) UIWindow *window;
 
 //changes
+//use a loop to set up everything
+//use a navigation bar at the top
 
 @end
